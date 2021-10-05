@@ -1,33 +1,28 @@
-## Your Name / Date
+Karen Barath/10-9-2021
+Executive Summary
+Executive Summary: This was interesting learning about Internet Architecture, Internet Security, and securing your web browser. 
+Internet Architecture-The Internet Architecture Board (IAB) is "a committee of the Internet Engineering Task Force (IETF) and an advisory body of the Internet Society (ISOC). ... Providing architectural oversight of Internet protocols and procedures. Liaising with other organizations on behalf of the Internet Engineering Task Force (IETF)
+Internet Protocol-The Internet Protocol is the network layer communications protocol in the Internet protocol suite for relaying datagrams across network boundaries. Its routing function enables internetworking, and essentially establishes the Internet. IANA assigns addresses based on globally agreed-upon rules, or policies. The key policy elements for IPv4 were: ■ RIRs received IPv4 blocks in /8 units from IANA. ■ RIRs could receive an additional block when they had just one half of a block left. ■ The number of /8 units RIRs received was based on a formula established by IANA. ICANN’s Board of Directors ratified the policy governing the allocation of IPv6 address space to RIRs in September 2006. The key policy elements are: ■ RIRs receive IPv6 blocks in /12 units. ■ RIRs can receive an additional block when they have just one half of a block left. ■ The number of /12 units RIRs receive is based on a formula established by IANA
+IP Address-An Internet Protocol address is a numerical label such as 192.0.2.1 that is connected to a computer network that uses the Internet Protocol for communication. An IP address serves two main functions: host or network interface identification and location addressing.
+ICANN-The Internet Corporation for Assigned Names and Numbers is an American multistakeholder group and nonprofit organization.
+TCP/IP-T. (Transmission Control Protocol/Internet Protocol) The global standard networking protocol. Developed in the 1970s under contract from the U.S. Department of Defense, TCP/IP was invented by Vinton Cerf and Bob Kahn.
+Responsibility of TCP/IP-The Internet Protocol is responsible for addressing host interfaces, encapsulating data into datagrams (including fragmentation and reassembly) and routing datagrams from a source host interface to a destination host interface across one or more IP networks.
+Client-Server Model and TCP/IP-The TCP/IP protocol allows systems to communicate even if they use different types of network hardware. ... IP, or Internet Protocol, performs the actual data transfer between different systems on the network or Internet. Using TCP binding, you can create both client and server portions of client-server systems.
+Layers
+Application Layer-An application layer is an abstraction layer that specifies the shared communications protocols and interface methods used by hosts in a communications network. An application layer abstraction is specified in both the Internet Protocol Suite and the OSI model.
+Internet Security-Internet security is a specific aspect of broader concepts such as cybersecurity and computer security, being focused on the specific threats and vulnerabilities of online access and use of the internet. This means that tons of data and sensitive information are constantly being shared over the internet.
+HTTP and Client-Server Model-HTTP is a protocol which allows the fetching of resources, such as HTML documents. It is the foundation of any data exchange on the Web and it is a client-server protocol, which means requests are initiated by the recipient, usually the Web browser.
+Protocols for Secure HTTP- HTTP is a protocol which allows the fetching of resources, such as HTML documents. It is the foundation of any data exchange on the Web and it is a client-server protocol, which means requests are initiated by the recipient, usually the Web browser.
+Securing your Web Browser-Browser security is the application of Internet security to web browsers in order to protect networked data and computer systems from breaches of privacy or malware. Security exploits of browsers often use JavaScript, sometimes with cross-site scripting (XSS) with a secondary payload using Adobe Flash.
+Reasons to Secure Browser- Protecting against malware and phishing
+The ability to warn potential victims that they are about to stray onto a malicious website puts web browsers in a unique position to combat phishing, malware, and other criminal attacks.
+Risk Explained- Protecting against malware and phishing
+The ability to warn potential victims that they are about to stray onto a malicious website puts web browsers in a unique position to combat phishing, malware, and other criminal attacks.
+Internet Programming-Web programming refers to the writing, markup and coding involved in Web development, which includes Web content, Web client and server scripting and network security. The most common languages used for Web programming are XML, HTML, JavaScript, Perl 5 and PHP.ng-
+World Wide Web Consortium- The World Wide Web Consortium is the main international standards organization for the World Wide Web. Founded in 1994 and currently led by Tim Berners-Lee, the consortium is made up of member organizations that maintain full-time staff working together in the development of standards for the World Wide Web.
+HTML5 and CSS- HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies for building Web pages. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices.
+HTML and XML- HTML's full form is Hypertext Markup Language, while XML is an Extensible Markup Language. The purpose of HTML is to display data and focus on how the data looks.
+...
+Components of a URL- A URL consists of five parts: the scheme, subdomain, top-level domain, second-level domain, and subdirectory. Using the URL of this article as an example, the three basic parts of a URL you should understand are the protocol, the domain name and the path.
+Conclusion- I cannot believe how much I have learned about Internet Architecture, Internet Security, and securing your web browser
 
-## Executive Summary 
-Include your executive summary here...
-
-## Internet Architecture
-### Internet Protocol
-#### IP Address
-#### ICANN
-
-### TCP/IP
-#### Responsibility of TCP/IP
-#### Client-Server Model and TCP/IP
-#### Layers
-#### Application Layer
-
-## Internet Security
-### HTTP and Client-Server Model
-### Protocols for Secure HTTP
-
-## Securing your Web Browser
-### Reasons to Secure Browser
-### Risk Explained
-
-## Internet Programming
-### World Wide Web Consortium
-### HTML5 and CSS
-### HTML and XML
-
-## Components of a URL
-
-## Conclusion
-Include your conclusion here...
